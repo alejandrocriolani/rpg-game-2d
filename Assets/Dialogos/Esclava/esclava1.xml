@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Dialogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ocfVersion>0.1.01</ocfVersion>
+  <oradores>
+    <string>Yo</string>
+    <string>Lua</string>
+  </oradores>
+  <ordOradores>
+    <int>0</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>0</int>
+    <int>1</int>
+  </ordOradores>
+  <conversaciones>
+    <string>Hola</string>
+    <string>Hola!</string>
+    <string>Soy la negra esclava</string>
+    <string>Mi unica habilidad es romper cosas</string>
+    <string>Ademas, tengo que pagar para poder ser una esclava</string>
+    <string>Anda a lavar los platos!</string>
+    <string>Si amo</string>
+  </conversaciones>
+</Dialogo>

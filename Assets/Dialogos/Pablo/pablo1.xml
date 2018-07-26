@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Dialogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ocfVersion>0.1.01</ocfVersion>
+  <oradores>
+    <string>Yo</string>
+    <string>Pablo</string>
+  </oradores>
+  <ordOradores>
+    <int>0</int>
+    <int>1</int>
+    <int>0</int>
+  </ordOradores>
+  <conversaciones>
+    <string>Hola!</string>
+    <string>Hola! Que quere ameo?</string>
+    <string>No nada, deja...</string>
+  </conversaciones>
+</Dialogo>
